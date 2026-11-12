@@ -1,54 +1,52 @@
 # Hi, I'm Shivansh Verma 👋
 
-### Python Developer | AI & Workflow Automation | Embedded Systems
+### Python Developer | Workflow Automation | Embedded Systems
 
-I enjoy building practical software projects, automating repetitive workflows, and exploring how software interacts with hardware. I’m focused on strengthening my development skills through hands-on projects and continuous learning.
+I build practical software projects and explore automation, web applications, and microcontroller-based systems. This profile showcases hands-on work, reference implementations, and projects I am continuously improving.
 
-- 🐍 **Primary language:** Python
-- 🤖 **Areas of interest:** Automation, AI-powered workflows, and embedded systems
-- 🛠️ **Currently showcasing:** Python applications, YouTube Shorts automation, and a microcontroller-based frequency measurement project
-- 🤝 **Open to:** Internships, collaborative projects, and learning opportunities
+- 🐍 **Programming:** Python
+- 🧩 **Tools:** Git, GitHub, FFmpeg, Arduino IDE
+- 🤖 **Interests:** Workflow automation, AI-assisted content production, and embedded systems
+- 🤝 **Open to:** Internships, entry-level opportunities, and collaborative projects
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. YouTube Shorts Automation
-A faceless YouTube Shorts automation project designed around an English-language, US-focused channel and a humorous facts format. The workflow brings together content generation, voice narration, and video-production steps to streamline Shorts creation.
+### 1. Python MCQ Website
+A responsive quiz application with a Python standard-library HTTP server, JSON question bank, server-side scoring, and explanations.
+- **Stack:** Python, HTML, CSS, JavaScript
+- **Run locally:** `python app.py`
+- [View source code](https://github.com/Shivanshpoop/python-mcq-website)
 
-**Focus:** Content workflow automation · AI-assisted production
+### 2. NOBODY ASKED — Shorts Production Toolkit
+A Python + FFmpeg utility that assembles supplied narration and background footage into vertical 9:16 videos. The repository also documents the planned English-language, US-focused humorous-facts channel workflow.
+- **Stack:** Python, FFmpeg
+- **Scope:** Local video assembly utility; API-based narration and automatic publishing are not included.
+- [View source code](https://github.com/Shivanshpoop/youtube-shorts-automation)
 
-[View repository](https://github.com/Shivanshpoop/youtube-shorts-automation)
-
-### 2. Python MCQ Website
-A multiple-choice quiz website developed using Python, designed to provide an interactive way to attempt objective questions.
-
-**Technology:** Python
-
-[View repository](https://github.com/Shivanshpoop/python-mcq-website)
-
-### 3. Microcontroller-Based Frequency Measurement System
-An academic embedded-systems project focused on measuring signal frequency using a microcontroller.
-
-**Focus:** Microcontrollers · Frequency measurement · Embedded systems
-
-[View repository](https://github.com/Shivanshpoop/microcontroller-frequency-meter)
+### 3. Microcontroller Frequency Measurement System
+An embedded-systems project repository with a clearly labelled Arduino Uno/Nano reference sketch for pulse counting and frequency calculation, plus design and safety notes.
+- **Stack:** Arduino C/C++ reference firmware
+- **Note:** The exact board and circuit of the original academic prototype still need to be confirmed.
+- [View source code](https://github.com/Shivanshpoop/microcontroller-frequency-meter)
 
 ---
 
 ## 🧰 Skills & Interests
 
 - **Programming:** Python
-- **Tools:** Git, GitHub
-- **Interests:** Workflow automation, AI-assisted tools, embedded systems, and practical application development
+- **Web:** HTML, CSS, JavaScript (project use)
+- **Embedded:** Arduino reference firmware, interrupt-based pulse counting
+- **Tools:** Git, GitHub, FFmpeg
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
 - **LinkedIn:** [Shivansh Verma](https://www.linkedin.com/in/shivansh-verma-239888350/)
 - **GitHub:** [@Shivanshpoop](https://github.com/Shivanshpoop)
 
 ---
 
-*Always learning, building, and improving — one project at a time.*
+*Learning by building, testing, documenting, and improving.*
